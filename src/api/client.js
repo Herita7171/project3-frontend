@@ -1,5 +1,5 @@
 import axios from 'axios';
 
-const client = axios.create({baseURL: 'https://monkfish-app-qpii3.ondigitalocean.app/api'});
+const client = axios.create({baseURL: 'https://ootd-backend-jl3x4.ondigitalocean.app/api'});
 
 export default client;
